@@ -4,4 +4,4 @@ This PowerShell script retrieves all scheduled tasks on the local machine and ex
 
 All results are exported into a UTF-8 encoded CSV file suitible for Eric Zimmerman timeline explorer, or other spreadsheet applications.
 
-
+Thanks to ChatGPT for helping me with this PowerShell script
